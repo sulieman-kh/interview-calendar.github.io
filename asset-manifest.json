@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/interview-calendar.github.io/static/css/main.aada9212.css",
-    "main.js": "/interview-calendar.github.io/static/js/main.2f27ad8d.js",
+    "main.css": "/interview-calendar.github.io/static/css/main.9e9909cf.css",
+    "main.js": "/interview-calendar.github.io/static/js/main.b123a853.js",
     "static/js/787.12e263d8.chunk.js": "/interview-calendar.github.io/static/js/787.12e263d8.chunk.js",
     "index.html": "/interview-calendar.github.io/index.html",
-    "main.aada9212.css.map": "/interview-calendar.github.io/static/css/main.aada9212.css.map",
-    "main.2f27ad8d.js.map": "/interview-calendar.github.io/static/js/main.2f27ad8d.js.map",
+    "main.9e9909cf.css.map": "/interview-calendar.github.io/static/css/main.9e9909cf.css.map",
+    "main.b123a853.js.map": "/interview-calendar.github.io/static/js/main.b123a853.js.map",
     "787.12e263d8.chunk.js.map": "/interview-calendar.github.io/static/js/787.12e263d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aada9212.css",
-    "static/js/main.2f27ad8d.js"
+    "static/css/main.9e9909cf.css",
+    "static/js/main.b123a853.js"
   ]
 }
